@@ -1,9 +1,9 @@
 /**
  * Calcule le total d'une facture
  *
- * @file exemple_procedural.cpp
+ * @file exemple_fonctionnel.cpp
  *
- * @brief This message displayed in Doxygen Files index
+ * @brief calcul de facture en prog fonctionnelle
  *
  * @author Frédérik Taleb
  * Contact: taleb.frederik@carrefour.cegepvicto.ca
